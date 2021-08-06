@@ -6,9 +6,8 @@
 - 📫 Contact Me **1.fatihes@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <div>
-![![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
-![![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://fatihes1.github.io/)
-</div>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
+[![Mail Badge](https://img.shields.io/badge/1.fatihes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1.fatihes@gmail.com)](mailto:1.fatihes@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
