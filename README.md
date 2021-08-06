@@ -1,9 +1,8 @@
 ﻿<h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Jr. Data Scientist | Blogger | Jr. Developer |  From Turkey</h3>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=fatihes1&color=green)" alt="fatihes1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihes1" alt="fatihes1" /> </p>
 
-- 📫 Contact Me **1.fatihes@gmail.com**
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
