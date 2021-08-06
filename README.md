@@ -5,7 +5,7 @@
 
 - 📫 Contact Me **1.fatihes@gmail.com**
 <h3 align="left">Connect with me:</h3>
-<div>
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
 [![Mail Badge](https://img.shields.io/badge/1.fatihes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1.fatihes@gmail.com)](mailto:1.fatihes@gmail.com)
 
