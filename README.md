@@ -5,10 +5,10 @@
 
 - 📫 Contact Me **1.fatihes@gmail.com**
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 ![![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
 ![![](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://fatihes1.github.io/)
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
