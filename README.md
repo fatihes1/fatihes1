@@ -1,7 +1,7 @@
 ﻿<h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Jr. Data Scientist | Blogger | Jr. Developer |  From Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect & Follow Me:</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatihtech/)
