@@ -4,6 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatihtech/)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpMnisdqsNAGzJfQBkBaOKg)
 [![Mail Badge](https://img.shields.io/badge/1.fatihes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1.fatihes@gmail.com)](mailto:1.fatihes@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
