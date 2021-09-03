@@ -45,6 +45,6 @@
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![]()
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihes1&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="riatorz" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihes1&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="fatihes1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihes1&show_icons=true&theme=dark&locale=en" alt="fatihes1" /></p>
