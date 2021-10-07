@@ -9,8 +9,9 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://fatihes.medium.com/)
 [![Mail Badge](https://img.shields.io/badge/1.fatihes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1.fatihes@gmail.com)](mailto:1.fatihes@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
+<div align="center">
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +45,7 @@
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![]()
-
+</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihes1&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="fatihes1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihes1&show_icons=true&theme=dark&locale=en" alt="fatihes1" /></p>
