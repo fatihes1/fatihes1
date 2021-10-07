@@ -57,8 +57,10 @@
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-  
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihes1&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="fatihes1" /></p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihes1&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="fatihes1" /></p>
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatihes1&show_icons=true&theme=dark&locale=en" alt="fatihes1" /></p>
+
+ </div>
