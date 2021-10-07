@@ -1,7 +1,11 @@
 ﻿<h1 align="center">Hi 👋, I'm Fatih</h1>
 
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=fatihes1&label=PROFILE+VIEWS)
 
+ </div>
+ 
 <br>
 
 <h3 align="center">Jr. Data Scientist | Blogger | Jr. Developer |  From Turkey</h3>
