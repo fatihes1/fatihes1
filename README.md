@@ -1,7 +1,9 @@
 ﻿<h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Jr. Data Scientist | Blogger | Jr. Developer |  From Turkey</h3>
 
-<h3 align="left">Connect & Follow Me:</h3>
+<h3 align="center">Connect & Follow Me:</h3>
+
+<div align="center">
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihes/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fatihtech/)
@@ -9,6 +11,8 @@
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://fatihes.medium.com/)
 [![Mail Badge](https://img.shields.io/badge/1.fatihes@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:1.fatihes@gmail.com)](mailto:1.fatihes@gmail.com)
 
+ </div> 
+ 
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
