@@ -12,6 +12,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <div align="center">
+  
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +45,8 @@
 ![](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![]()
+
+  
 </div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatihes1&show_icons=true&cache_seconds=1800&locale=en&layout=compact" alt="fatihes1" /></p>
 
