@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=fatihes1&label=PROFILE+VIEWS)
 
  </div>
  
