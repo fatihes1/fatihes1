@@ -5,7 +5,7 @@
 
  </div>
  
-<h3 align="center">Jr. Data Scientist | Blogger | Jr. Developer |  From Turkey</h3>
+<h3 align="center">Jr. Web Developer | Blogger | Jr. Developer |  From Turkey</h3>
 
 <h3 align="center">Connect & Follow Me:</h3>
 
