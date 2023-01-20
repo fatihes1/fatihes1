@@ -5,7 +5,7 @@
 
  </div>
  
-<h3 align="center">Jr. Web Developer | Blogger | Jr. Software Developer |  From Turkey</h3>
+<h3 align="center">Jr. Web Developer | AWS Certified :white_check_mark: From Turkey</h3>
 
 <h3 align="center">Connect & Follow Me:</h3>
 
