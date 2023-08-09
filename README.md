@@ -5,7 +5,8 @@
 
  </div>
  
-<h3 align="center">Full Stack Web Developer | AWS Certified :white_check_mark: From Turkey</h3>
+<h3 align="center">Full Stack Web Developer | AWS Certified Solutions Architect - Associate :white_check_mark: </h3>
+<h3 align="center">From Turkey</h3>
 
 <h3 align="center">Connect & Follow Me:</h3>
 
